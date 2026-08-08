@@ -2,7 +2,10 @@
 
 交互式中文 Anime.js 教程：课程 + 测验 + 进度 + 真运行 Demo + Playground。
 
+**在线访问：** [https://xiaoqianran.github.io/learning-Animejs/](https://xiaoqianran.github.io/learning-Animejs/)  
 **仓库：** [https://github.com/xiaoqianran/learning-Animejs](https://github.com/xiaoqianran/learning-Animejs)
+
+部署：GitHub Actions → GitHub Pages（`Deploy to GitHub Pages` workflow，`build_type: workflow`）。
 
 参考姊妹站：[learning-vue3](https://github.com/xiaoqianran/learning-vue3)
 
